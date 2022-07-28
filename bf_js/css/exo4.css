@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+
+.petiteimage {
+    width: 100px;
+    /* border: 5px solid red; */
+}
+
+.rouge {
+    border: 5px solid red;
+}
